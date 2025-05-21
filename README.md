@@ -19,7 +19,9 @@ calorías baja una rutina depende del tiempo que se practique  y una intensidad
 con la siguiente fórmula:
 
 - `100 * (tiempo - descanso) * intensidad`
-
+/*
+Esto hay que tratar de escribirlo una sola vez, en la clase principal
+*/
 - El tiempo es algo que siempre se le dice a la rutina al momento de consultar cuantas calorías quema
 
 - El descanso y la intensidad dependerá del caso según se detalla:
