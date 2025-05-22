@@ -32,6 +32,7 @@ Esto hay que tratar de escribirlo una sola vez, en la clase principal
 - La intensidad se establece para cada rutina en especial
 - El descanso es de 5 minutos si el tiempo es mayor a 20, si no 2.
 
+//Esto es lo que se va a hacer en el test
 **Ejemplo:** **correr en la playa** es una actividad de running de intensidad 1.2
 - Al practicarse por 5 minutos quemará `100 * (5 -2) * 1.2 = 360`
 - Al practicarse por 90 minutos quemará `100 * (90-5) * 1.2 = 10200`
