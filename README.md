@@ -19,7 +19,9 @@ calorías baja una rutina depende del tiempo que se practique  y una intensidad
 con la siguiente fórmula:
 
 - `100 * (tiempo - descanso) * intensidad`
-
+/*
+Esto hay que tratar de escribirlo una sola vez, en la clase principal
+*/
 - El tiempo es algo que siempre se le dice a la rutina al momento de consultar cuantas calorías quema
 
 - El descanso y la intensidad dependerá del caso según se detalla:
@@ -30,6 +32,7 @@ con la siguiente fórmula:
 - La intensidad se establece para cada rutina en especial
 - El descanso es de 5 minutos si el tiempo es mayor a 20, si no 2.
 
+//Esto es lo que se va a hacer en el test
 **Ejemplo:** **correr en la playa** es una actividad de running de intensidad 1.2
 - Al practicarse por 5 minutos quemará `100 * (5 -2) * 1.2 = 360`
 - Al practicarse por 90 minutos quemará `100 * (90-5) * 1.2 = 10200`
