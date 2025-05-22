@@ -73,3 +73,6 @@ override method descanso(tiempo){
 ///Si tengo una funcion que se repite en todas las clases heredadas
 //hay que templarlo y mandarlo para arriba implementado o de forma abstracta,
 // en el caso de que cambie lo sobreescribo
+
+//Clase abstracta, no se puede instanciar por si sola
+//tiene al menos un metodo abstracto en este caso es Rutina
