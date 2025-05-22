@@ -69,3 +69,7 @@ override method descanso(tiempo){
 }
 
 }
+//El patron se llama template metodo, metodo plantilla
+///Si tengo una funcion que se repite en todas las clases heredadas
+//hay que templarlo y mandarlo para arriba implementado o de forma abstracta,
+// en el caso de que cambie lo sobreescribo
